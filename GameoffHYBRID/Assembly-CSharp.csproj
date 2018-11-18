@@ -63,17 +63,17 @@
   <ItemGroup>
     <Compile Include="Assets\Script\map.cs" />
     <Compile Include="Assets\Script\mapData.cs" />
+    <Reference Include="UnityEditor.StandardEvents">
+      <HintPath>C:/Users/zhang/Documents/GitHub/BoxGame3GameoffHYBRID/GameoffHYBRID/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>C:/Users/zhang/Documents/GitHub/BoxGame3GameoffHYBRID/GameoffHYBRID/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
       <HintPath>C:/Users/zhang/Documents/GitHub/BoxGame3GameoffHYBRID/GameoffHYBRID/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/zhang/Documents/GitHub/BoxGame3GameoffHYBRID/GameoffHYBRID/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/zhang/Documents/GitHub/BoxGame3GameoffHYBRID/GameoffHYBRID/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/zhang/Documents/GitHub/BoxGame3GameoffHYBRID/GameoffHYBRID/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
